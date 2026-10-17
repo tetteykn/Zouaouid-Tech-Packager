@@ -1,4 +1,4 @@
-# BrightnessControlUltimate — Software License Agreement
+# Zouaouid Tech-Packager — Software License Agreement
 
 > **Copyright © 2026 Zouaouid Tech. All rights reserved.**
 
@@ -29,7 +29,7 @@
 ## 1. License Grant
 
 
-This software is licensed, not sold. This Software License Agreement (the **"License"**) grants you, the purchaser, the right to use Brightness Control Ultimate software (the **"Software"**) subject to the following terms and conditions.
+This software is licensed, not sold. This Software License Agreement (the **"License"**) grants you, the purchaser, the right to use Zouaouid Tech-Packager software (the **"Software"**) subject to the following terms and conditions.
 
 
 ---
@@ -236,4 +236,4 @@ Your right to use the Software terminates automatically without notice if you fa
 ---
 
 
-*BrightnessControlUltimate Software License Agreement — Copyright © 2026 Zouaouid Tech. All rights reserved.*
+*Zouaouid Tech-Packager Software License Agreement — Copyright © 2026 Zouaouid Tech. All rights reserved.*
